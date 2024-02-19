@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-07-18T03:38:09.290Z</updated>
+  <updated>2024-02-19T09:32:26.800Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023讯飞星火营</title>
+    <link href="http://example.com/2024/02/19/2023%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%AB%E8%90%A5/"/>
+    <id>http://example.com/2024/02/19/2023%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%AB%E8%90%A5/</id>
+    <published>2024-02-19T09:18:07.000Z</published>
+    <updated>2024-02-19T09:32:26.800Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+    <summary type="html">关于23暑假到安徽参加讯飞星火的一些感悟</summary>
+    
+    
+    
+    <category term="杂项" scheme="http://example.com/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+    <category term="AI" scheme="http://example.com/tags/AI/"/>
+    
+    <category term="感悟" scheme="http://example.com/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>python 中的lambda表达式</title>
